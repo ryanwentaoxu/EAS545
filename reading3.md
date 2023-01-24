@@ -28,6 +28,8 @@ shareholder: 股东
 distributor: 分销商
 manufacturer: 制造商
 ownership stake: 所有权股份
+conviction: 信仰，确信，定罪
+
 
 ##Network Analysis of Covid-19 mRNA Vaccine Patents
 
@@ -37,7 +39,7 @@ elicit: 引出
 provisional: 暂时
 license out: 许可
 impede: 阻碍
-infreigement: 侵犯
+infrigement: 侵犯
 
 ##Moderna Sues Pfizer and BioNTech, Alleging mRNA Patent Infringement
 
